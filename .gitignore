@@ -1,0 +1,4 @@
+# Ignores all the files with .class extension
+*/**/*.class
+# Ignores the "target" folder and all of its content
+/target/
